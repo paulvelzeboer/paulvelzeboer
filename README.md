@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+  <a target="_blank" href="https://github.com/paulvelzeboer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulvelzeboer&show_icons=true&theme=synthwave&count_private=true&hide=stars" />
+  </a>
+
 <!--
 **paulvelzeboer/paulvelzeboer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
